@@ -9,7 +9,7 @@
 [**Download for Windows**](../../releases/latest) &nbsp;·&nbsp; [Releases](../../releases) &nbsp;·&nbsp; [Roadmap](ROADMAP.md)
 
 ![Windows 10 and 11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a3f4b)
-![Version](https://img.shields.io/badge/version-0.3.1-e0763c)
+![Version](https://img.shields.io/badge/version-0.3.2-e0763c)
 
 </div>
 
